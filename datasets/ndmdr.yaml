@@ -30,3 +30,10 @@ RegistryEntryAdded: 2026-09-04
 
 RegistryEntryLastModified: 2026-09-04
 
+DataAtWork:
+  Tutorials:
+    - Title: "Get To Know A Dataset: Neurological Disease Multimodal Data Registry (NDMDR)"
+      URL: "https://github.com/Tahereh-K/open-data-examples/blob/main/ndmdr/get-to-know-a-dataset.ipynb"
+      AuthorName: "Tahereh Kamali"
+      Services:
+        - S3
